@@ -1,1 +1,2 @@
-# Reporitorio-desafio-dio
+# Desafio DIO
+repositorio para o desafio DIO
